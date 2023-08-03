@@ -4,7 +4,6 @@ from streamlit.connections import ExperimentalBaseConnection
 from streamlit.runtime.caching import cache_data
 from PIL import Image
 from io import BytesIO
-from IPython.display import display
 
 class CatConnection(ExperimentalBaseConnection[requests.Session]):
     def __init__(self, *args, connection_name=None, **kwargs):
