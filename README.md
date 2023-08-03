@@ -44,7 +44,7 @@ A big shoutout to Kevin Balicot for the awesome CATAAS API. This project would n
 <a name="contact"></a>
 ## Contact
 
-If you have any questions, suggestions, or just want to say hi, feel free to reach out to me at tathagata.raha@icloud.com.
+If you have any questions, suggestions, or just want to say hi, feel free to reach out to us at tathagata.raha@icloud.com.
 
 ---
 
