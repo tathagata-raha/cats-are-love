@@ -1,8 +1,8 @@
-# Cats are Love! 🐱
+# Cats are Love! 🐱💖
 
 Hello hooman! Welcome to my super-furry corner of the internet, the official submission for the **Streamlit Connections Hackathon**! 
 
-"Cats are Love!" is a cute web application built with purr-thon and Streamlit. It uses the [Cats-as-a-Service(CATAAS) API](https://cataas.com/) to fetch adorable cat pictures based on the tags or even random cat images. Wait, there's more! It can make the cat image say anything you want. Yes, we cats can talk here!
+"Cats are Love!" is a cute web application built with lots of purr-thon (Python) love and some magical Streamlit dust. It uses the [Cats-as-a-Service(CATAAS) API](https://cataas.com/) to fetch purrfect catto pictures based on the tags or even random cat images. Wait, there's more! It can make the cat image say anything you want. Yes, we cats can tawk here!
 
 ## Table of Contents
 1. [Installation](#installation)
